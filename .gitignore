@@ -67,3 +67,21 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# C++ 编译产物
+*.obj
+*.exe
+*.pdb
+*.ilk
+
+# 个人财务数据
+transactions.txt
