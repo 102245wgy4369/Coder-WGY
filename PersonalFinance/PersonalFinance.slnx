@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PersonalFinance.vcxproj" Id="4198b22f-b233-4608-85e8-7a6ae2a4350f" />
+</Solution>
